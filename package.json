@@ -1,0 +1,27 @@
+{
+  "name": "connect",
+  "version": "0.0.1",
+  "description": "Webtorrent based Chrome App",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niczy/connect.git"
+  },
+  "keywords": [
+    "Chrome",
+    "App",
+    "WebTorrent"
+  ],
+  "author": "Nicholas Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niczy/connect/issues"
+  },
+  "homepage": "https://github.com/niczy/connect",
+  "dependencies": {
+    "webtorrent": "^0.27.3"
+  }
+}
